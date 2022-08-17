@@ -48,11 +48,19 @@ li a:hover {
   width: 400px;
   height: 100px;
   background-color: darkred;
-  top: ;
+  top: 45px;
+  left: 0;
+  margin: 20px;
+  border-color: aquamarine;
+  border-width: 20px;
+  border-style: solid;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
  }
  #peixe 
    width: 80px;
-   height: ; 
+   height: 80px; 
 
 
 
