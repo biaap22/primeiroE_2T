@@ -1,3 +1,5 @@
+
+
 body {
   background: rgb(219, 238, 152);
 }
@@ -42,27 +44,19 @@ li a {
 }
 li a:hover {
   background: rgba(255, 202, 57, 0.589);
-  color: brown;
 }
- boxImage {
-  width: 400px;
-  height: 100px;
-  background-color: darkred;
-  top: 45px;
+.rodape {
+  position: absolute;
+  width: 100%;
+  height: 50px;
+  color: white;
+  background: gray;
   left: 0;
-  margin: 20px;
-  border-color: aquamarine;
-  border-width: 20px;
-  border-style: solid;
-  padding: 20px;
+  bottom: 0;
   display: flex;
   justify-content: center;
- }
- #peixe 
-   width: 80px;
-   height: 80px; 
-
-
-
-
-
+}
+.conteudoHome {
+  position: absolute;
+  top: 45px;
+}
